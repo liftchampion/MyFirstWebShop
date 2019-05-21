@@ -17,7 +17,11 @@
 
 ## Изображения:
 
+**Лендинг**  
 ![landing](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/land.png)
+**Корзина**  
 ![cart](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/cart.png)
-![adm](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/admin.png)
+**Админ-панель**  
+![adm](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/admin.png)  
+**Окно авторизации**  
 ![login](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/login.png)
