@@ -8,6 +8,7 @@
 **Решение**:  
 + Я, в основном делал бэк, мой тиммейт - фронт  
 + Базы данных храняться в файлах в json-формате  
+
 **Итог**:  
 + Сайт не лишен проблем, но основной функционал работает  
 + Функциональная админ-панель  
@@ -25,3 +26,5 @@
 ![adm](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/admin.png)  
 **Окно авторизации**  
 ![login](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/login.png)
+
+**Проект является часть [php_pool](https://github.com/liftchampion/php_pool)**
