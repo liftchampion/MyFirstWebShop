@@ -7,10 +7,17 @@
 + 2 человека, изучавших `php/html` неделю
 **Решение**:  
 + Я, в основном делал бэк, мой тиммейт - фронт  
-+ Базы данных храняться в файлах в json-формате
++ Базы данных храняться в файлах в json-формате  
 **Итог**:  
 + Сайт не лишен проблем, но основной функционал работает  
 + Функциональная админ-панель  
 (опция с добавлением картинки как файла не работает - не доделана вставка такого рода картинки в html)  
 + Симпатичная вёрстка (во многих местах едет)  
 + Большинство проблем остались из-за нехватки времени  
+
+## Изображения:
+
+![landing](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/land.png)
+![cart](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/cart.png)
+![adm](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/admin.png)
+![login](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/login.png)
