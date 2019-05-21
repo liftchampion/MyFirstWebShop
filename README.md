@@ -27,4 +27,4 @@
 **Окно авторизации**  
 ![login](https://raw.githubusercontent.com/liftchampion/MyFirstWebShop/master/imgs/login.png)
 
-**Проект является часть [php_pool](https://github.com/liftchampion/php_pool)**
+**Проект является частью [php_pool](https://github.com/liftchampion/php_pool)**
